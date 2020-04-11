@@ -6,4 +6,4 @@ Para listar a execução da Trace API: execute o script da pasta shellscript/lis
 Para interromper a execução da Trace API: execute o script da pasta shellscript/stop_trace.sh <id>
 
 Para processar o log execute:
-python3 analisatrace.py <arquivo_gerado_pelo_trace_api>
+python3 analisa_trace.py <arquivo_gerado_pelo_trace_api>
